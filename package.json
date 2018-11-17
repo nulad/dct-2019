@@ -1,0 +1,27 @@
+{
+  "name": "dct-2019",
+  "version": "1.0.0",
+  "description": "package for retrieving daftar caleg pemilu 2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nulad/dct-2019.git"
+  },
+  "author": "Nulad Wisnu Pambudi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nulad/dct-2019/issues"
+  },
+  "homepage": "https://github.com/nulad/dct-2019#readme",
+  "dependencies": {
+    "bluebird": "^3.5.3",
+    "cheerio": "^1.0.0-rc.2",
+    "json2csv": "^4.3.0",
+    "moment": "^2.22.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
